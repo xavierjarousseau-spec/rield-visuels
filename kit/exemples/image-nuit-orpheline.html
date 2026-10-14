@@ -1,0 +1,32 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="../base.css">
+<style>
+.cal{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:14px;margin-top:80px}
+.d{min-width:0;height:200px;border-radius:20px;display:flex;flex-direction:column;justify-content:space-between;padding:16px 18px;font-size:24px}
+.d b{font-family:Display;font-weight:700;font-size:48px}
+.wk{font-size:22px;letter-spacing:.18em;text-transform:uppercase;color:#8FA9A2;text-align:center;font-weight:600}
+.bk{background:var(--teal);color:var(--off)}
+.free{background:transparent;border:2px dashed #4E7068;color:#8FA9A2}
+.orph{background:transparent;border:4px solid var(--lime);color:var(--lime)}
+.legend{display:flex;gap:40px;margin-top:40px;font-size:26px;color:#C9D6D2}
+.legend span{display:flex;align-items:center;gap:14px}
+.sw{width:30px;height:30px;border-radius:8px;display:inline-block}
+</style></head><body>
+<section class="slide dark" id="img">
+  <div class="label"><span class="rule"></span>Bonne pratique</div>
+  <h1 style="margin-top:56px">La nuit<br><em>orpheline.</em></h1>
+  <p class="lead" style="margin-top:36px;max-width:860px">Coincée entre deux séjours, avec une durée minimale de 2 nuits, elle ne trouvera jamais preneur.</p>
+  <div class="cal">
+    <div class="wk">Lun</div><div class="wk">Mar</div><div class="wk">Mer</div><div class="wk">Jeu</div><div class="wk">Ven</div><div class="wk">Sam</div><div class="wk">Dim</div>
+    <div class="d bk"><b>12</b></div>
+    <div class="d bk"><b>13</b></div>
+    <div class="d bk"><b>14</b></div>
+    <div class="d orph"><b>15</b><span style='font-family:Serif;font-style:italic;font-weight:900;font-size:64px;line-height:1'>?</span></div>
+    <div class="d bk"><b>16</b></div>
+    <div class="d bk"><b>17</b></div>
+    <div class="d bk"><b>18</b></div>
+  </div>
+  <p class="lead" style="margin-top:44px;font-size:34px">Une nuit vide ne se rattrape jamais.</p>
+  <div class="legend"><span><i class="sw" style="background:var(--teal)"></i>Nuit vendue</span><span><i class="sw" style="border:3px solid var(--lime)"></i>Nuit orpheline</span></div>
+  <div class="footer"><div class="wordmark">RIELD</div><div class="pager" style="color:var(--lime);font-size:28px;letter-spacing:.04em">rield-rm.com</div></div>
+</section>
+</body></html>
