@@ -16,3 +16,4 @@ Sujets exclus (déjà saturés sur LinkedIn) : frais uniques Airbnb / bascule de
 | Non publié | B | Carrousel 6 slides | Choc de demande après les violences du 17 octobre (chiffres GHR) | latribunedelhotellerie.com |
 | 06/11/2026 08:00 | A | Image (photo article) | Visibilité hôtel IA : être réservé via ChatGPT et Google | https://rield-rm.com/reserver-hotel-ia-visibilite-chatgpt-google/ |
 | 10/11/2026 08:00 (brouillon Metricool sans image, source kit/sources/prix-plancher.html) | C | Image Rield | Prix plancher : plancher économique et plancher stratégique (exemple fictif chiffré) | Aucune (commentaire : https://rield-rm.com/tarification-dynamique/) |
+| 03/11/2026 08:00 | D | Carrousel 5 slides | GOPPAR vs RevPAR : même RevPAR, pas le même profit (exemple fictif chiffré) | Aucune |
