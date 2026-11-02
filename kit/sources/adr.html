@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="base.css">
+<style>
+.tbl{display:flex;flex-direction:column;gap:22px;margin-top:56px}
+.hot{display:flex;flex-direction:column;gap:6px}
+.hot .t{font-family:var(--font-title);font-weight:700;font-size:40px}
+.ln{display:flex;justify-content:space-between;font-size:32px;padding:14px 0;border-bottom:2px solid rgba(255,255,255,.18)}
+.ln b{font-family:var(--font-title);font-weight:700}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:64px}
+.formula{font-family:var(--font-title);font-weight:700;font-size:54px;line-height:1.2;margin-top:56px}
+</style></head><body>
+<section class="slide dark">
+  <div class="label"><span class="rule"></span>Pédagogie RM</div>
+  <div style="margin-top:auto;margin-bottom:auto">
+    <h1>Un ADR plus bas,<br>un chiffre d'affaires<br><em>plus haut.</em></h1>
+    <p class="lead" style="margin-top:56px;max-width:840px">Pourquoi l'ADR ne se lit jamais seul.</p>
+  </div>
+  <div class="footer"><div><img class="logo logo-dark" src="logo/rield-logo-inverse.png" alt="Rield"><img class="logo logo-light" src="logo/rield-logo-couleur.png" alt="Rield"></div><div class="swipe">Faites défiler<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></div></div>
+</section>
+<section class="slide light">
+  <div class="label"><span class="muted">La définition</span></div>
+  <h2 style="margin-top:40px">L'ADR mesure<br>le prix moyen.<br>Pas la <em>performance.</em></h2>
+  <div class="card" style="margin-top:64px">
+    <div class="formula">ADR =<br>chiffre d'affaires chambres<br>÷ chambres vendues</div>
+    <p class="cap" style="margin-top:28px">ADR : Average Daily Rate, le prix moyen d'une chambre vendue. Il ignore les chambres restées vides.</p>
+  </div>
+  <div class="footer"><div><img class="logo logo-dark" src="logo/rield-logo-inverse.png" alt="Rield"><img class="logo logo-light" src="logo/rield-logo-couleur.png" alt="Rield"></div><div class="pager">02 / 05</div></div>
+</section>
+<section class="slide dark">
+  <div class="label"><span class="muted">Un exemple fictif</span></div>
+  <h2 style="margin-top:40px">Un hôtel de 30 chambres,<br>un mois, <em>deux stratégies.</em></h2>
+  <div class="two">
+    <div class="card hot"><div class="t">Stratégie 1</div>
+      <div class="ln"><span>ADR</span><b>120 €</b></div>
+      <div class="ln"><span>Occupation</span><b>60 %</b></div>
+      <div class="ln"><span>Nuits vendues</span><b>540</b></div></div>
+    <div class="card hot"><div class="t">Stratégie 2</div>
+      <div class="ln"><span>ADR</span><b>105 €</b></div>
+      <div class="ln"><span>Occupation</span><b>80 %</b></div>
+      <div class="ln"><span>Nuits vendues</span><b>720</b></div></div>
+  </div>
+  <p class="lead" style="margin-top:56px">La première défend son prix. La seconde remplit davantage l'hôtel.</p>
+  <div class="src" style="position:absolute;left:88px;bottom:160px">Exemple fictif, mois de 30 jours, 900 chambres disponibles.</div>
+  <div class="footer"><div><img class="logo logo-dark" src="logo/rield-logo-inverse.png" alt="Rield"><img class="logo logo-light" src="logo/rield-logo-couleur.png" alt="Rield"></div><div class="pager">03 / 05</div></div>
+</section>
+<section class="slide light">
+  <div class="label"><span class="muted">Le résultat</span></div>
+  <h2 style="margin-top:40px">Le prix moyen<br>le plus bas<br>gagne <em>10 800 €.</em></h2>
+  <div class="two">
+    <div class="card"><div class="cap" style="margin:0 0 8px">RevPAR stratégie 1</div><div class="big" style="font-size:120px">72 €</div></div>
+    <div class="card"><div class="cap" style="margin:0 0 8px">RevPAR stratégie 2</div><div class="big" style="font-size:120px">84 €</div></div>
+  </div>
+  <div class="card" style="margin-top:28px"><div class="big" style="font-size:96px">+ 10 800 €</div><div class="cap">de chiffre d'affaires chambres sur le mois (75 600 € contre 64 800 €).</div></div>
+  <div class="src" style="position:absolute;left:88px;bottom:160px">Exemple fictif, calcul simplifié, hors coûts variables.</div>
+  <div class="footer"><div><img class="logo logo-dark" src="logo/rield-logo-inverse.png" alt="Rield"><img class="logo logo-light" src="logo/rield-logo-couleur.png" alt="Rield"></div><div class="pager">04 / 05</div></div>
+</section>
+<section class="slide dark">
+  <div class="label"><span class="rule"></span>Ce que ça change</div>
+  <div style="margin-top:auto;margin-bottom:auto">
+    <h1 style="font-size:92px">Lisez l'ADR<br>avec l'<em>occupation.</em></h1>
+    <p class="lead" style="margin-top:56px;max-width:880px">RevPAR = ADR × taux d'occupation. C'est lui qui dit si la stratégie tarifaire fonctionne.</p>
+  </div>
+  <div class="footer"><div><img class="logo logo-dark" src="logo/rield-logo-inverse.png" alt="Rield"><img class="logo logo-light" src="logo/rield-logo-couleur.png" alt="Rield"></div><div class="site">rield-rm.com</div></div>
+</section>
+</body></html>
