@@ -15,6 +15,6 @@ Sujets exclus (déjà saturés sur LinkedIn) : frais uniques Airbnb / bascule de
 | 30/10/2026 08:00 | B | Image Rield | Airbnb interdit d'imposer les tâches de départ (vaisselle, lits, linge, poubelles) au 20/11, impact sur les courts séjours | https://www.airbnb.com/resources/hosting-homes/a/important-changes-to-house-rules-21 |
 | Non publié | B | Carrousel 6 slides | Choc de demande après les violences du 17 octobre (chiffres GHR) | latribunedelhotellerie.com |
 | 06/11/2026 08:00 | A | Image (photo article) | Visibilité hôtel IA : être réservé via ChatGPT et Google | https://rield-rm.com/reserver-hotel-ia-visibilite-chatgpt-google/ |
-| 10/11/2026 08:00 (brouillon Metricool sans image, source kit/sources/prix-plancher.html) | C | Image Rield | Prix plancher : plancher économique et plancher stratégique (exemple fictif chiffré) | Aucune (commentaire : https://rield-rm.com/tarification-dynamique/) |
-| 03/11/2026 08:00 | D | Carrousel 5 slides | GOPPAR vs RevPAR : même RevPAR, pas le même profit (exemple fictif chiffré) | Aucune |
-| 13/11/2026 08:00 | D | Carrousel 5 slides | ADR : un prix moyen plus bas peut rapporter plus, à lire avec l'occupation (exemple fictif chiffré) | Aucune |
+| 10/11/2026 08:00 (programmé avec image, source kit/sources/prix-plancher.html) | C | Image Rield | Prix plancher : plancher économique et plancher stratégique (exemple fictif chiffré) | Aucune (commentaire : https://rield-rm.com/tarification-dynamique/) |
+| 17/11/2026 08:00 (brouillon) | D | Carrousel 5 slides | GOPPAR vs RevPAR : même RevPAR, pas le même profit (exemple fictif chiffré) | Aucune |
+| 20/11/2026 08:00 (brouillon) | D | Carrousel 5 slides | ADR : un prix moyen plus bas peut rapporter plus, à lire avec l'occupation (exemple fictif chiffré) | Aucune |
