@@ -18,3 +18,4 @@ Sujets exclus (déjà saturés sur LinkedIn) : frais uniques Airbnb / bascule de
 | 10/11/2026 08:00 (programmé avec image, source kit/sources/prix-plancher.html) | C | Image Rield | Prix plancher : plancher économique et plancher stratégique (exemple fictif chiffré) | Aucune (commentaire : https://rield-rm.com/tarification-dynamique/) |
 | 17/11/2026 08:00 (brouillon) | D | Carrousel 5 slides | GOPPAR vs RevPAR : même RevPAR, pas le même profit (exemple fictif chiffré) | Aucune |
 | 20/11/2026 08:00 (brouillon) | D | Carrousel 5 slides | ADR : un prix moyen plus bas peut rapporter plus, à lire avec l'occupation (exemple fictif chiffré) | Aucune |
+| 24/11/2026 08:00 (brouillon) | B | Image Rield | Paris, octobre 2026 : ADR record (474,64 €, +13,5 %), RevPAR +15,4 % porté par le prix, Fashion Week au-dessus de 600 € (CoStar) | https://www.hospitalitynet.org/news/4135410/paris-broke-its-monthly-adr-record-in-october |
