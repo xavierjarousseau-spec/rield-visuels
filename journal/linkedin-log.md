@@ -4,6 +4,7 @@ Piliers : A article blog Rield · B actu secteur · C bonne pratique / cas · D 
 Rythme : mardi et vendredi à 08:00. Brouillons préparés chaque mercredi matin pour la semaine suivante, à valider dans Metricool.
 Formats : alterner image et carrousel (le format du post suivant est l'inverse du dernier du journal).
 Sujets exclus (déjà saturés sur LinkedIn) : frais uniques Airbnb / bascule des frais au 13 octobre.
+Sujets en réserve (niches pour gestionnaires aguerris, validés par Xavier le 23/11) : cannibalisation à l'intérieur d'un parc ; du prix affiché au net propriétaire par canal ; modèle de données (une ligne par nuitée, historique des prix affichés, photo quotidienne des réservations) ; signal de pick-up par cluster de logements ; biais des calendriers concurrents scrapés ; tests de prix sur logements jumeaux ; durée minimale calculée sur le coût de rotation ; moyenne ou courte durée en basse saison ; décomposition de l'écart de revenu pour le propriétaire.
 
 | Publication prévue | Pilier | Format | Sujet | Source |
 |---|---|---|---|---|
